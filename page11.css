@@ -1,0 +1,34 @@
+h1{color: white; text-align: center;}
+h2{color: white; text-align: left;}
+h3{color: white; text-align: left;}
+html { 
+    background: url(mo.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;  
+  }
+  #forparg{
+    color: white;
+    font-size: 140%;
+    text-align: center;
+}
+.par2{color: white; 
+    font-size: 140%;
+}
+.par3
+{color: white; 
+  font-size: 140%;
+}
+.par4
+{color: white; 
+  font-size: 140%;
+}
+.par5
+{color: white; 
+  font-size: 140%;
+}
+.par6
+{color: white;
+font-size: 140%;
+}
